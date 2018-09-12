@@ -1,0 +1,181 @@
+﻿<!DOCTYPE html>
+<html ng-app="myModule">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="../Content/bootstrap.css" rel="stylesheet" />
+    <link href="../CSS/Custom.css" rel="stylesheet" />
+</head>
+<body ng-controller="CampaignCtrl" class="Pagebody">
+    <div class="container">
+        <input type="button" class="btn btn-primary" value="Add New Campaign" ng-click="CreateCampaign()" />
+        <div ng-show="CamList" class="PageList">
+            <table class="table table-bordered PageList">
+                <tr>
+                    <td>Campaign Id</td>
+                    <td>Campaign Name</td>
+                    <td>Campaign Date</td>
+                    <td>Campaign Venue</td>
+                    <td>Campaign Level</td>
+                    <td>Employee Id</td>
+                    <td>Actions</td>
+                </tr>
+                <tr ng-repeat="cam in AllCampaigns">
+                    <td>{{cam.CampaignId}}</td>
+                    <td>{{cam.CampaignName}}</td>
+                    <td>{{cam.CampaignDate}}</td>
+                    <td>{{cam.CampaignVenue}}</td>
+                    <td>{{cam.CampaignLevel}}</td>
+                    <td>{{cam.EmployeeId}}</td>
+                    <td>
+                        <input type="button" ng-click="updateCampaign(cam)" value="Update" />
+                        <input type="button" ng-click="deleteCampaign(cam)" value="Delete" />
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div ng-show="divInsertCam">
+            <form class="col-md-8 col-md-offset-2">
+                <table class="table table-bordered PageList">
+                    <tr>
+                        <th>Campaign Name</th>
+                        <td><input type="text" ng-model="CampaignName" class="form-control" /></td>
+                    </tr>
+                    <tr>
+                        <th>Campaign Date</th>
+                        <td><input type="text" ng-model="CampaignDate" class="form-control" placeholder="dd/mm/yyyy" /></td>
+                    </tr>
+                    <tr>
+                        <th>Campaign Venue</th>
+                        <td><input type="text" ng-model="CampaignVenue" class="form-control" /></td>
+                    </tr>
+                    <tr>
+                        <th>Campaign Level</th>
+                        <td>
+                            <select ng-model="CampaignLevel">
+                                <option selected value="">Select</option>
+                                <option value="District">District</option>
+                                <option value="Division">Division</option>
+                                <option value="Country">Country</option>
+                            </select>
+
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Employee Id</th>
+                        <td>
+                            <select ng-model="EmployeeId">
+                                <option selected value="">Select</option>
+                                <option ng-repeat="e in AllEmployees" value="{{e.EmployeeId}}">{{e.Name}}</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            <input type="button" ng-click="insertData()" value="Insert" class="btn btn-primary" />
+                            <input type="button" ng-click="Cancle()" value="Cancel" class="btn btn-primary" />
+                        </td>
+                    </tr>
+                </table>
+            </form>
+        </div>
+        <div ng-show="divUpdateCam" class="PageList">
+            <form class="col-md-8 col-md-offset-2">
+                <table class="table table-bordered  PageList">
+                    <tr>
+                        <th>Campaign Id</th>
+                        <td>
+                            <input type="text" ng-model="CampaignId" disabled class="form-control" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Campaign Name</th>
+                        <td><input type="text" ng-model="CampaignName" class="form-control" /></td>
+                    </tr>
+                    <tr>
+                        <th>Campaign Date</th>
+                        <td><input type="text" ng-model="CampaignDate" class="form-control" placeholder="dd/mm/yyyy" /></td>
+                    </tr>
+                    <tr>
+                        <th>Campaign Venue</th>
+                        <td><input type="text" ng-model="CampaignVenue" class="form-control" /></td>
+                    </tr>
+                    <tr>
+                        <th>Campaign Level</th>
+                        <td>
+                            <select ng-model="CampaignLevel">
+                                <option value="District">District</option>
+                                <option value="Division">Division</option>
+                                <option value="Country">Country</option>
+                            </select>
+
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Employee Name</th>
+                        <td>
+                            <select ng-model="EmployeeId">
+                                <option>Select</option>
+                                <option ng-repeat="e in AllEmployees" value="{{e.EmployeeId}}">{{e.Name}}</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            <input type="button" ng-click="updateData()" value="Update" class="btn btn-primary" />
+                            <input type="button" ng-click="Cancle()" value="Cancel" class="btn btn-primary" />
+                        </td>
+                    </tr>
+                </table>
+            </form>
+        </div>
+
+        <div ng-show="divDeleteCam" class="PageList">
+            <form class="col-md-8 col-md-offset-2">
+                <h2>Are you sure you want to delete this record?</h2>
+                <table class="table table-bordered PageList">
+                    <tr>
+                        <th>Campaign Id</th>
+                        <td ng-bind="CampaignId" class="form-control" > </td>
+                    </tr>
+                    <tr>
+                        <th>Campaign Name</th>
+                        <td ng-bind="CampaignName" class="form-control" ></td>
+                    </tr>
+                    <tr>
+                        <th>Campaign Date</th>
+                        <td ng-bind="CampaignDate" class="form-control" ></td>
+                    </tr>
+                    <tr>
+                        <th>Campaign Venue</th>
+                        <td ng-bind="CampaignVenue" class="form-control" ></td>
+                    </tr>
+                    <tr>
+                        <th>Campaign Level</th>
+                        <td ng-bind="CampaignLevel" class="form-control"></td>
+                    </tr>
+                    <tr>
+                        <th>Employee Id</th>
+                        <td ng-bind="EmployeeId" class="form-control"></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            <input type="button" ng-click="deleteData()" value="Delete" class="btn btn-danger" />
+                            <input type="button" ng-click="Cancle()" value="Cancel" class="btn btn-primary" />
+                        </td>
+                    </tr>
+                </table>
+            </form>
+        </div>
+    </div>
+
+    <script src="../Scripts/angular.js"></script>
+    <script src="../Scripts/Module/Module.js"></script>
+    <script src="../Scripts/Campaign/CampaignService.js"></script>
+    <script src="../Scripts/Employee/EmployeeService.js"></script>
+    <script src="../Scripts/Campaign/CampaignController.js"></script>
+</body>
+</html>

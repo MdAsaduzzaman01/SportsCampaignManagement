@@ -1,0 +1,27 @@
+﻿
+.Header {
+    background-color: #E6E6E6;
+    height: 100px;
+}
+
+.Menu {
+    background-color: #5EA106;
+    height: 40px;
+}
+
+.ancor {
+    color: white;
+    padding: 30px;
+}
+
+.NEW {
+    background-color: #E6E6E6;
+    height: 40px;
+}
+.Pagebody {
+    background-color: #70790C;
+    /*background-color: #F5F5F5;*/
+}
+.PageList{
+    background-color:white;
+}

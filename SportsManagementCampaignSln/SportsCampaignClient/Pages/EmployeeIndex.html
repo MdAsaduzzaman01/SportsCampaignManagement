@@ -1,0 +1,219 @@
+﻿<!DOCTYPE html>
+<html ng-app="myModule">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="../Content/bootstrap.css" rel="stylesheet" />
+    <link href="../CSS/Custom.css" rel="stylesheet" />
+</head>
+<body ng-controller="EmployeeCtrl" class="Pagebody">
+    <div class="container">
+        <input type="button" value="Create New Employee" ng-click="CreateNew()" />
+        <div ng-show="EmpList" class="PageList">
+            <table class="table table-bordered">
+                <tr>
+                    <td>Employee Id</td>
+                    <td>Name</td>
+                    <td>Age</td>
+                    <td>Gender</td>
+                    <td>Email</td>
+                    <td>Phone</td>
+                    <td>Present Address</td>
+                    <td>Permanent Address</td>
+                    <td>National ID</td>
+                    <td>Actions</td>
+                </tr>
+                <tr ng-repeat="emp in AllEmployees">
+                    <td>{{emp.EmployeeId}}</td>
+                    <td>{{emp.Name}}</td>
+                    <td>{{emp.Age}}</td>
+                    <td>{{emp.Gender}}</td>
+                    <td>{{emp.Email}}</td>
+                    <td>{{emp.Phone}}</td>
+                    <td>{{emp.PresentAddress}}</td>
+                    <td>{{emp.ParmanentAddress}}</td>
+                    <td>{{emp.NID}}</td>
+                    <td>
+                        <input type="button" ng-click="updateEmployee(emp)" value="Update" />
+                        <input type="button" ng-click="deleteEmployee(emp)" value="Delete" />
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div ng-show="InsertEmployee" class="PageList">
+            <form class="col-md-8 col-md-offset-2">
+                <table class="table table-bordered PageList">
+                    <tr>
+                        <th>Name</th>
+                        <td><input type="text" ng-model="Name" class="form-control" /></td>
+                    </tr>
+                    <tr>
+                        <th>Age</th>
+                        <td><input type="text" ng-model="Age" class="form-control" /></td>
+                    </tr>
+                    <tr>
+                        <th>Gender</th>
+                        <td>
+                            <select ng-model="Gender" class="form-control">
+                                <option value="" selected>Select</option>
+                                <option value="Male">Male</option>
+                                <option value="Female">Female</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Email</th>
+                        <td><input type="text" ng-model="Email" class="form-control" /></td>
+                    </tr>
+                    <tr>
+                        <th>Phone</th>
+                        <td><input type="text" ng-model="Phone" class="form-control" /></td>
+                    </tr>
+                    <tr>
+                        <th>Present Address</th>
+                        <td>
+                            <textarea ng-model="PresentAddress" class="form-control"></textarea>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Permanent Address </th>
+                        <td>
+                            <textarea ng-model="ParmanentAddress" class="form-control"></textarea>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>National Id</th>
+                        <td><input type="text" ng-model="NID" class="form-control" /></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            <input type="button" value="Insert" ng-click="insertData()" class="btn btn-primary" />
+                            <input type="button" value="Cancel" ng-click="CloseInsert()" class="btn btn-primary" />
+                        </td>
+                    </tr>
+                </table>
+            </form>
+        </div>
+        <div ng-show="divupdate">
+            <form class="col-md-8 col-md-offset-2">
+                <table class="table table-bordered PageList">
+                    <tr>
+                        <th>Employee Id</th>
+                        <td><input type="text" ng-model="EmployeeId" disabled class="form-control" /></td>
+                    </tr>
+                    <tr>
+                        <th>Name</th>
+                        <td><input type="text" ng-model="Name" class="form-control" /></td>
+                    </tr>
+                    <tr>
+                        <th>Age</th>
+                        <td><input type="text" ng-model="Age" class="form-control" /></td>
+                    </tr>
+                    <tr>
+                        <th>Gender</th>
+                        <td>
+                            <select ng-model="Gender" class="form-control">
+                                <option value="Male">Male</option>
+                                <option value="Female">Female</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Email</th>
+                        <td><input type="text" ng-model="Email" class="form-control" /></td>
+                    </tr>
+                    <tr>
+                        <th>Phone</th>
+                        <td><input type="text" ng-model="Phone" class="form-control" /></td>
+                    </tr>
+                    <tr>
+                        <th>Present Address</th>
+                        <td>
+                            <textarea ng-model="PresentAddress" class="form-control"></textarea>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Permanent Address </th>
+                        <td>
+                            <textarea ng-model="ParmanentAddress" class="form-control"></textarea>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>National Id</th>
+                        <td><input type="text" ng-model="NID" class="form-control" /></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            <input type="button" value="Update" ng-click="updateData()" class="btn btn-info" />
+                            <input type="button" value="Cancel" ng-click="CloseUpdate()" class="btn btn-primary" />
+                        </td>
+                    </tr>
+                </table>
+            </form>
+        </div>
+        <div ng-show="divDelete">
+            <form class="col-md-8 col-md-offset-2">
+                <h2>Are you sure you want to delete this record?</h2>
+                <table class="table table-bordered PageList">
+                    <tr>
+                        <th>Employee Id</th>
+                        <td ng-bind="EmployeeId" disabled></td>
+                    </tr>
+                    <tr>
+                        <th>Name</th>
+                        <td ng-bind="Name" class="form-control" ></td>
+                    </tr>
+                    <tr>
+                        <th>Age</th>
+                        <td ng-bind="Age" class="form-control" ></td>
+                    </tr>
+                    <tr>
+                        <th>Gender</th>
+                       
+                        <td ng-bind="Gender" class="form-control" ></td>
+                     
+                    </tr>
+                    <tr>
+                        <th>Email</th>
+                        <td ng-bind="Email" class="form-control" ></td>
+                    </tr>
+                    <tr>
+                        <th>Phone</th>
+                        <td ng-bind="Phone" class="form-control" ></td>
+                    </tr>
+                    <tr>
+                        <th>Present Address</th>
+                        <td>
+                            <textarea ng-bind="PresentAddress" class="form-control"></textarea>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Permanent Address </th>
+                        <td>
+                            <textarea ng-bind="ParmanentAddress" class="form-control"></textarea>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>National Id</th>
+                        <td ng-bind="NID" class="form-control" ></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            <input type="button" value="Delete" ng-click="deleteData()" class="btn btn-danger" />
+                            <input type="button" value="Cancel" ng-click="CloseDelete()" class="btn btn-primary" />
+                        </td>
+                    </tr>
+                </table>
+            </form>
+        </div>
+    </div>
+
+    <script src="../Scripts/angular.js"></script>
+    <script src="../Scripts/Module/Module.js"></script>
+    <script src="../Scripts/Employee/EmployeeService.js"></script>
+    <script src="../Scripts/Employee/EmployeeController.js"></script>
+</body>
+</html>

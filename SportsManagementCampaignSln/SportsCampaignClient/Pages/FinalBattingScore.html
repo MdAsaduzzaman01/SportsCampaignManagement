@@ -1,0 +1,271 @@
+﻿<!DOCTYPE html>
+<html ng-app="myModule">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="../Content/bootstrap.css" rel="stylesheet" />
+    <link href="../CSS/Custom.css" rel="stylesheet" />
+</head>
+<body ng-controller="FBattingCtrl" class="Pagebody">
+    <div class="container">
+        <input type="button" class="btn btn-info" value="Create Final Score"  ng-click="CreateFBatting()"/>
+        <div ng-show="FBattingList" class="PageList">
+            <table class="table table-bordered PageList">
+                <tr>
+                    <th>Final Batting Score Id</th>
+                    <th>Player Id</th>
+                    <th>Ball 1 Score</th>
+                    <th>Ball 2 Score</th>
+                    <th>Ball 3 Score</th>
+                    <th>Ball 4 Score</th>
+                    <th>Ball 5 Score</th>
+                    <th>Ball 6 Score</th>
+                    <th>Final Score</th>
+                    <th>Action</th>
+                </tr>
+                <tr ng-repeat="fbt  in getAllFBtiings">
+                    <td>{{fbt.FinalBattingScoreId}}</td>
+                    <td>{{fbt.PlayerId}}</td>
+                    <td>{{fbt.Ball1Total}}</td>
+                    <td>{{fbt.Ball2Total}}</td>
+                    <td>{{fbt.Ball3Total}}</td>
+                    <td>{{fbt.Ball4Total}}</td>
+                    <td>{{fbt.Ball5Total}}</td>
+                    <td>{{fbt.Ball6Total}}</td>
+                    <td>{{fbt.FinalScore}}</td>
+                    <td>
+                    <input type="button" class="btn btn-primary" ng-click="updateFBatting(fbt)" value="Update" />
+                    <input type="button" class="btn btn-primary" ng-click="deleteFBatting(fbt)"  value="Delete"/>
+                    </td>
+                </tr>
+            </table>
+        </div>
+
+        <div ng-show="divInsertFBatting" class="PageList">
+            <form class="col-md-8 col-md-offset-2">
+                <table class="table table-bordered PageList">
+                    <tr>
+                        <th>Player Id</th>
+                        <td>
+                            <select ng-model="PlayerId" class="form-control">
+                                <option value="" selected >Select</option>
+                                <option ng-repeat="p in AllBattingScore" value="{{p.PlayerId}}">{{p.PlayerId}}</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Insert player Id for Ball 1</th>
+                        <td>
+                            <select ng-model="Ball1Total" class="form-control">
+                                <option value="" selected>Select</option>
+                                <option ng-repeat="p in AllBattingScore" value="{{p.Total}}">{{p.PlayerId}}</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Insert player Id for Ball 2</th>
+                        <td>
+                            <select ng-model="Ball2Total" class="form-control">
+                                <option value="" selected>Select</option>
+                                <option ng-repeat="p in AllBattingScore" value="{{p.Total}}">{{p.PlayerId}}</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Insert player Id for Ball 3</th>
+                        <td>
+                            <select ng-model="Ball3Total" class="form-control">
+                                <option value="" selected>Select</option>
+                                <option ng-repeat="p in AllBattingScore" value="{{p.Total}}">{{p.PlayerId}}</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Insert player Id for Ball 4</th>
+                        <td>
+                            <select ng-model="Ball4Total" class="form-control">
+                                <option value="" selected>Select</option>
+                                <option ng-repeat="p in AllBattingScore" value="{{p.Total}}">{{p.PlayerId}}</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Insert player Id for Ball 5</th>
+                        <td>
+                            <select ng-model="Ball5Total" class="form-control">
+                                <option value="" selected>Select</option>
+                                <option ng-repeat="p in AllBattingScore" value="{{p.Total}}">{{p.PlayerId}}</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Insert player Id for Ball 6</th>
+                        <td>
+                            <select ng-model="Ball6Total" class="form-control">
+                                <option value="" selected>Select</option>
+                                <option ng-repeat="p in AllBattingScore" value="{{p.Total}}">{{p.PlayerId}}</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                       <th></th>
+                        <td>
+                            <input type="button" ng-click="insertData()" value="Insert" class="btn btn-primary" />
+                            <input type="button" ng-click="Cancel()" value="Cancel" class="btn btn-primary" />
+                        </td>
+                    </tr>
+                </table>
+            </form>
+        </div>
+        <div ng-show="divUpdateFBatting" class="PageList">
+            <form class="col-md-8 col-md-offset-2">
+                <table class="table table-bordered PageList">
+                    <tr>
+                        <th>Final Score Id</th>
+                        <td><input type="text" disabled class="form-control" ng-model="FinalBattingScoreId"/></td>
+                    </tr>
+                    <tr>
+                        <th>Player Id</th>
+                        <td>
+                            <select ng-model="PlayerId" class="form-control">
+                                <option value="" selected>Select</option>
+                                <option ng-repeat="p in AllBattingScore" value="{{p.PlayerId}}">{{p.PlayerId}}</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Insert player Id for Ball 1</th>
+                        <td>
+                            <select ng-model="Ball1Total" class="form-control">
+                                <option value="" selected>Select</option>
+                                <option ng-repeat="p in AllBattingScore" value="{{p.Total}}">{{p.PlayerId}}</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Insert player Id for Ball 2</th>
+                        <td>
+                            <select ng-model="Ball2Total" class="form-control">
+                                <option value="" selected>Select</option>
+                                <option ng-repeat="p in AllBattingScore" value="{{p.Total}}">{{p.PlayerId}}</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Insert player Id for Ball 3</th>
+                        <td>
+                            <select ng-model="Ball3Total" class="form-control">
+                                <option value="" selected>Select</option>
+                                <option ng-repeat="p in AllBattingScore" value="{{p.Total}}">{{p.PlayerId}}</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Insert player Id for Ball 4</th>
+                        <td>
+                            <select ng-model="Ball4Total" class="form-control">
+                                <option value="" selected>Select</option>
+                                <option ng-repeat="p in AllBattingScore" value="{{p.Total}}">{{p.PlayerId}}</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Insert player Id for Ball 5</th>
+                        <td>
+                            <select ng-model="Ball5Total" class="form-control">
+                                <option value="" selected>Select</option>
+                                <option ng-repeat="p in AllBattingScore" value="{{p.Total}}">{{p.PlayerId}}</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Insert player Id for Ball 6</th>
+                        <td>
+                            <select ng-model="Ball6Total" class="form-control">
+                                <option value="" selected>Select</option>
+                                <option ng-repeat="p in AllBattingScore" value="{{p.Total}}">{{p.PlayerId}}</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th></th>
+                        <td>
+                            <input type="button" ng-click="updateData()" value="Update" class="btn btn-primary" />
+                            <input type="button" ng-click="Cancel()" value="Cancel" class="btn btn-primary" />
+                        </td>
+                    </tr>
+                </table>
+            </form>
+        </div>
+        <div ng-show="divDeleteFBatting" class="PageList">
+            <h2>Are you sure you want to delete this record?</h2>
+            <form class="col-md-8 col-md-offset-2">
+                <table class="table table-bordered PageList">
+                    <tr>
+                        <th>Final Score Id</th>
+                        <td ng-bind="FinalBattingScoreId"></td>
+                    </tr>
+                    <tr>
+                        <th>Player Id</th>
+                        <td ng-bind="PlayerId"> 
+                           
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Insert player Id for Ball 1</th>
+                        <td ng-bind="Ball1Total">
+                           
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Insert player Id for Ball 2</th>
+                        <td ng-bind="Ball2Total">
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Insert player Id for Ball 3</th>
+                        <td  ng-bind="Ball3Total">
+                           
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Insert player Id for Ball 4</th>
+                        <td  ng-bind="Ball4Total">
+                           
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Insert player Id for Ball 5</th>
+                        <td  ng-bind="Ball5Total">
+                          
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Insert player Id for Ball 6</th>
+                        <td  ng-bind="Ball6Total">
+                          
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Final Score</th>
+                        <td ng-bind="FinalScore"></td>
+                    </tr>
+                    <tr>
+                        <th></th>
+                        <td>
+                            <input type="button" ng-click="deleteData()" value="Delete" class="btn btn-danger" />
+                            <input type="button" ng-click="Cancel()" value="Cancel" class="btn btn-primary" />
+                        </td>
+                    </tr>
+                </table>
+            </form>
+        </div>
+    </div>
+    <script src="../Scripts/angular.js"></script>
+    <script src="../Scripts/Module/Module.js"></script>
+    <script src="../Scripts/FinalBattingScore/FBattingService.js"></script>
+    <script src="../Scripts/BattingScoreCard/BattingScoreService.js"></script>
+    <script src="../Scripts/FinalBattingScore/FBattingController.js"></script>
+</body>
+</html>

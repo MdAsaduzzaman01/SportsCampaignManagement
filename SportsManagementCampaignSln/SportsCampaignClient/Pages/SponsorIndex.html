@@ -1,0 +1,148 @@
+﻿<!DOCTYPE html>
+<html ng-app="myModule">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="../Content/bootstrap.css" rel="stylesheet" />
+    <link href="../CSS/Custom.css" rel="stylesheet" />
+</head>
+<body ng-controller="SponsorCtrl" class="Pagebody">
+    <div class="container">
+        <input type="button" ng-click="CreateNewSp()" value="Create New Sponsor" class="btn btn-primary" />
+        <div ng-show="SpList" class="PageList">
+            <table class="table table-bordered PageList">
+                <tr>
+                    <th>Sponsor Id</th>
+                    <th>Campaign Id</th>
+                    <th>Company Name</th>
+                    <th>Company Address</th>
+                    <th>Paid Amount</th>
+                    <th>Actions</th>
+                </tr>
+                <tr ng-repeat="sp in SponsorList">
+                    <td>{{sp.SponsorId}}</td>
+                    <td>{{sp.CampaignId}}</td>
+                    <td>{{sp.CompanyName}}</td>
+                    <td>{{sp.CompanyAddress}}</td>
+                    <td>{{sp.AmountToPay}}</td>
+                    <td>
+                        <input type="button" ng-click="updateSponsor(sp)" value="Update" class="btn btn-info" />
+                        <input type="button" ng-click="deleteSponsor(sp)" value="Delete" class="btn btn-info" />
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div ng-show="InsertSponsor" class="PageList">
+            <form class="col-md-8 col-md-offset-2"> 
+                <table class="table table-bordered PageList">
+                    <tr>
+                        <th>Campaign Id</th>
+                        <td>
+                            <select ng-model="CampaignId" class="form-control">
+                                <option value="" selected>Select</option>
+                                <option ng-repeat="c in AllCampaigns" value="{{c.CampaignId}}">{{c.CampaignVenue}}</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>CompanyName</th>
+                        <td><input type="text" ng-model="CompanyName" class="form-control" /></td>
+                    </tr>
+                    <tr>
+                        <th>Company Address</th>
+                        <td><input type="text" ng-model="CompanyAddress" class="form-control" /></td>
+                    </tr>
+                    <tr>
+                        <th>Paid Amount</th>
+                        <td><input type="text" ng-model="AmountToPay" class="form-control" /></td>
+                    </tr>
+                    <tr>
+                        <th></th>
+                        <td>
+                            <input type="button" ng-click="insertData()" value="Insert" class="btn btn-primary" />
+                            <input type="button" ng-click="Cancel()" value="Cancel" class="btn btn-primary" />
+                        </td>
+                    </tr>
+                </table>
+            </form>
+
+        </div>
+        <div ng-show="divupdateSp" class="PageList">
+            <form class="col-md-8 col-md-offset-2">
+                <table class="table table-bordered PageList">
+                    <tr>
+                        <th>Sponsor Id</th>
+                        <td><input type="text" ng-model="SponsorId" disabled class="form-control" /></td>
+                    </tr>
+                    <tr>
+                        <th>Campaign Id</th>
+                        <td>
+                            <select ng-model="CampaignId" class="form-control">
+                                <option value="" selected>Select</option>
+                                <option ng-repeat="c in AllCampaigns" value="{{c.CampaignId}}">{{c.CampaignVenue}}</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>CompanyName</th>
+                        <td><input type="text" ng-model="CompanyName" class="form-control" /></td>
+                    </tr>
+                    <tr>
+                        <th>Company Address</th>
+                        <td><input type="text" ng-model="CompanyAddress" class="form-control" /></td>
+                    </tr>
+                    <tr>
+                        <th>Paid Amount</th>
+                        <td><input type="text" ng-model="AmountToPay" class="form-control" /></td>
+                    </tr>
+                    <tr>
+                        <th></th>
+                        <td>
+                            <input type="button" ng-click="updateData()" value="Update" class="btn btn-primary" />
+                            <input type="button" ng-click="Cancel()" value="Cancel" class="btn btn-primary" />
+                        </td>
+                    </tr>
+                </table>
+                </form>
+          </div>
+        <div ng-show="divDeleteSp" class="PageList">
+            <form class="col-md-8 col-md-offset-2">
+                <table class="table table-bordered PageList">
+                    <tr>
+                        <th>Sponsor Id</th>
+                        <td ng-bind="SponsorId" class="form-control"></td>
+                    </tr>
+                    <tr>
+                        <th>Campaign Id</th>
+                        <td ng-bind="CampaignId" class="form-control"></td>
+                    </tr>
+                    <tr>
+                        <th>CompanyName</th>
+                        <td ng-bind="CompanyName" class="form-control"></td>
+                    </tr>
+                    <tr>
+                        <th>Company Address</th>
+                        <td ng-bind="CompanyAddress" class="form-control"></td>
+                    </tr>
+                    <tr>
+                        <th>Paid Amount</th>
+                        <td ng-bind="AmountToPay" class="form-control"></td>
+                    </tr>
+                    <tr>
+                        <th></th>
+                        <td>
+                            <input type="button" ng-click="deleteData()" value="Delete" class="btn btn-danger" />
+                            <input type="button" ng-click="Cancel()" value="Cancel" class="btn btn-primary" />
+                        </td>
+                    </tr>
+                </table>
+            </form>
+        </div>
+    </div>
+    <script src="../Scripts/angular.js"></script>
+    <script src="../Scripts/Module/Module.js"></script>
+    <script src="../Scripts/Sponsor/SponsorService.js"></script>
+    <script src="../Scripts/Campaign/CampaignService.js"></script>
+    <script src="../Scripts/Sponsor/SponsorController.js"></script>
+</body>
+</html>

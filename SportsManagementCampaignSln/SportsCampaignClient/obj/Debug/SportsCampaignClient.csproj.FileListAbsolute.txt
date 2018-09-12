@@ -1,0 +1,1198 @@
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\ApplicationInsights.config
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\SportsCampaignClient.dll.config
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\SportsCampaignClient.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\SportsCampaignClient.pdb
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csc.exe
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csc.exe.config
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csc.rsp
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csi.exe
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csi.exe.config
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csi.rsp
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.AppContext.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Console.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.Compression.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Claims.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.ValueTuple.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\vbc.exe
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\vbc.exe.config
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\vbc.rsp
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\VBCSCompiler.exe
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\Antlr3.Runtime.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.Web.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\Newtonsoft.Json.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Helpers.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Mvc.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Optimization.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Razor.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Razor.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\WebGrease.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Helpers.xml
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Mvc.xml
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Optimization.xml
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Razor.xml
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.xml
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Razor.xml
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\Newtonsoft.Json.xml
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\Antlr3.Runtime.pdb
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.Web.xml
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.csproj.CopyComplete
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.dll
+C:\Users\Student\Desktop\FinalProject\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.pdb
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\ApplicationInsights.config
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\SportsCampaignClient.dll.config
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\SportsCampaignClient.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\SportsCampaignClient.pdb
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csc.exe
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csi.exe
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Threading.Thread.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.Web.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\WebGrease.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.Web.xml
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.dll
+C:\Users\User\Desktop\Final Project\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.pdb
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\ApplicationInsights.config
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\SportsCampaignClient.dll.config
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\SportsCampaignClient.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\SportsCampaignClient.pdb
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csc.exe
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csc.exe.config
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csc.rsp
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csi.exe
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csi.exe.config
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csi.rsp
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.AppContext.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Console.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.Compression.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Claims.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.ValueTuple.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\vbc.exe
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\vbc.exe.config
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\vbc.rsp
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\VBCSCompiler.exe
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\Antlr3.Runtime.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.Web.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\Newtonsoft.Json.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Helpers.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Mvc.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Optimization.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Razor.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Razor.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\WebGrease.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Helpers.xml
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Mvc.xml
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Optimization.xml
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Razor.xml
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.xml
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Razor.xml
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\Newtonsoft.Json.xml
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\Antlr3.Runtime.pdb
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.Web.xml
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.csproj.CopyComplete
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.dll
+C:\Users\Student\Desktop\FinalProject\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.pdb
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\ApplicationInsights.config
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\SportsCampaignClient.dll.config
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\SportsCampaignClient.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\SportsCampaignClient.pdb
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csc.exe
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csi.exe
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Threading.Thread.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.Web.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\WebGrease.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.Web.xml
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.dll
+C:\Users\User\Desktop\Final Project\update2.25.07.2018.11.43pm\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.pdb
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\ApplicationInsights.config
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\SportsCampaignClient.dll.config
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\SportsCampaignClient.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\SportsCampaignClient.pdb
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csc.exe
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csc.exe.config
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csc.rsp
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csi.exe
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csi.exe.config
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csi.rsp
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.AppContext.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Collections.Immutable.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Console.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Diagnostics.Process.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.Compression.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.FileSystem.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.Pipes.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Reflection.Metadata.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.AccessControl.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Claims.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Principal.Windows.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Threading.Thread.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.ValueTuple.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.XmlDocument.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.XPath.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\vbc.exe
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\vbc.exe.config
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\vbc.rsp
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\VBCSCompiler.exe
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\VBCSCompiler.exe.config
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Antlr3.Runtime.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.Agent.Intercept.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.DependencyCollector.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.Web.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.WindowsServer.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.ApplicationInsights.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.Web.Infrastructure.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Newtonsoft.Json.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Diagnostics.DiagnosticSource.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Helpers.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Mvc.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Optimization.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Razor.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Deployment.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Razor.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\WebGrease.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Helpers.xml
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Mvc.xml
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Optimization.xml
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Razor.xml
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.xml
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Deployment.xml
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Razor.xml
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Newtonsoft.Json.xml
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Antlr3.Runtime.pdb
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Diagnostics.DiagnosticSource.xml
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.DependencyCollector.xml
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.WindowsServer.xml
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.Web.xml
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.csprojAssemblyReference.cache
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.csproj.CoreCompileInputs.cache
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.csproj.CopyComplete
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.dll
+F:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.pdb
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\ApplicationInsights.config
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\SportsCampaignClient.dll.config
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\SportsCampaignClient.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\SportsCampaignClient.pdb
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csc.exe
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csc.exe.config
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csc.rsp
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csi.exe
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csi.exe.config
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csi.rsp
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.AppContext.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Collections.Immutable.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Console.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Diagnostics.Process.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.Compression.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.FileSystem.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.Pipes.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Reflection.Metadata.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.AccessControl.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Claims.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Principal.Windows.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Threading.Thread.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.ValueTuple.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.XmlDocument.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.XPath.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\vbc.exe
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\vbc.exe.config
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\vbc.rsp
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\VBCSCompiler.exe
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\VBCSCompiler.exe.config
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Antlr3.Runtime.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.Agent.Intercept.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.DependencyCollector.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.Web.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.WindowsServer.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.ApplicationInsights.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.Web.Infrastructure.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Newtonsoft.Json.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Diagnostics.DiagnosticSource.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Helpers.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Mvc.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Optimization.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Razor.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Deployment.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Razor.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\WebGrease.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Helpers.xml
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Mvc.xml
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Optimization.xml
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Razor.xml
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.xml
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Deployment.xml
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Razor.xml
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Newtonsoft.Json.xml
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Antlr3.Runtime.pdb
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Diagnostics.DiagnosticSource.xml
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.DependencyCollector.xml
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.WindowsServer.xml
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.Web.xml
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.csprojResolveAssemblyReference.cache
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.csproj.CoreCompileInputs.cache
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.dll
+H:\FinalProject\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.pdb
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\ApplicationInsights.config
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\SportsCampaignClient.dll.config
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\SportsCampaignClient.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\SportsCampaignClient.pdb
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csc.exe
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csi.exe
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Threading.Thread.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.Web.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\WebGrease.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.Web.xml
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.dll
+C:\Users\User\Desktop\Final Project\update1.8.18\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.pdb
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\ApplicationInsights.config
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\SportsCampaignClient.dll.config
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\SportsCampaignClient.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\SportsCampaignClient.pdb
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csc.exe
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csi.exe
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Threading.Thread.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.Web.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\WebGrease.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.Web.xml
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.dll
+C:\Users\User\Desktop\Final Project\update5.8.18.12.38AM\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.pdb
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\ApplicationInsights.config
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\SportsCampaignClient.dll.config
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\SportsCampaignClient.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\SportsCampaignClient.pdb
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csc.exe
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csi.exe
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Threading.Thread.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.Web.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\WebGrease.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.Web.xml
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.dll
+C:\Users\User\Desktop\Final Project\3rd\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.pdb
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\ApplicationInsights.config
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\SportsCampaignClient.dll.config
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\SportsCampaignClient.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\SportsCampaignClient.pdb
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csc.exe
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csi.exe
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Threading.Thread.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.Web.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\WebGrease.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.Web.xml
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.dll
+C:\Users\User\Desktop\Final Project\final update\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.pdb
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\ApplicationInsights.config
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\SportsCampaignClient.dll.config
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\SportsCampaignClient.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\SportsCampaignClient.pdb
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csc.exe
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csi.exe
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Threading.Thread.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.Web.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\WebGrease.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.Web.xml
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.dll
+C:\Users\User\Desktop\Final Project\5.9.18\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.pdb
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\ApplicationInsights.config
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\SportsCampaignClient.dll.config
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\SportsCampaignClient.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\SportsCampaignClient.pdb
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csc.exe
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csc.exe.config
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csc.rsp
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csi.exe
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csi.exe.config
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csi.rsp
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.AppContext.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Collections.Immutable.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Console.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Diagnostics.Process.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.Compression.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.FileSystem.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.Pipes.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Reflection.Metadata.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.AccessControl.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Claims.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Principal.Windows.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Threading.Thread.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.ValueTuple.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.XmlDocument.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.XPath.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\vbc.exe
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\vbc.exe.config
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\vbc.rsp
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\VBCSCompiler.exe
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\VBCSCompiler.exe.config
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Antlr3.Runtime.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.Agent.Intercept.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.DependencyCollector.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.Web.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.WindowsServer.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.ApplicationInsights.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.Web.Infrastructure.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Newtonsoft.Json.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Diagnostics.DiagnosticSource.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Helpers.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Mvc.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Optimization.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Razor.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Deployment.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Razor.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\WebGrease.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Helpers.xml
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Mvc.xml
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Optimization.xml
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Razor.xml
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.xml
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Deployment.xml
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Razor.xml
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Newtonsoft.Json.xml
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Antlr3.Runtime.pdb
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Diagnostics.DiagnosticSource.xml
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.DependencyCollector.xml
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.WindowsServer.xml
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.Web.xml
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.csprojResolveAssemblyReference.cache
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.dll
+F:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.pdb
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\ApplicationInsights.config
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\SportsCampaignClient.dll.config
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\SportsCampaignClient.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\SportsCampaignClient.pdb
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csc.exe
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csc.exe.config
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csc.rsp
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csi.exe
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csi.exe.config
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\csi.rsp
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\Microsoft.Win32.Primitives.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.AppContext.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Collections.Immutable.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Console.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Diagnostics.Process.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.Compression.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.FileSystem.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.IO.Pipes.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Reflection.Metadata.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.AccessControl.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Claims.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.Encoding.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.Primitives.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Security.Principal.Windows.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Text.Encoding.CodePages.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Threading.Thread.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.ValueTuple.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.ReaderWriter.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.XmlDocument.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.XPath.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\System.Xml.XPath.XDocument.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\vbc.exe
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\vbc.exe.config
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\vbc.rsp
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\VBCSCompiler.exe
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\roslyn\VBCSCompiler.exe.config
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Antlr3.Runtime.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.Agent.Intercept.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.DependencyCollector.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.PerfCounterCollector.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.ServerTelemetryChannel.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.Web.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.WindowsServer.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.ApplicationInsights.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.Web.Infrastructure.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Newtonsoft.Json.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Diagnostics.DiagnosticSource.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Helpers.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Mvc.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Optimization.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Razor.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Deployment.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Razor.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\WebGrease.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Helpers.xml
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Mvc.xml
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Optimization.xml
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.Razor.xml
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.xml
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Deployment.xml
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Web.WebPages.Razor.xml
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Newtonsoft.Json.xml
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Antlr3.Runtime.pdb
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\System.Diagnostics.DiagnosticSource.xml
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.DependencyCollector.xml
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.WindowsServer.xml
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.AI.Web.xml
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.csprojResolveAssemblyReference.cache
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.csproj.CoreCompileInputs.cache
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.dll
+I:\final update\8.9.18.final\8.9.18\SportsManagementCampaignSln\SportsCampaignClient\obj\Debug\SportsCampaignClient.pdb

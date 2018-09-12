@@ -1,0 +1,125 @@
+﻿<!DOCTYPE html>
+<html ng-app="myModule">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="../Content/bootstrap.css" rel="stylesheet" />
+    <link href="../CSS/Custom.css" rel="stylesheet" />
+</head>
+<body ng-controller="PlayerCtrl" class="Pagebody">
+    <div class="container">
+        
+        <form class="col-md-12">
+            <table class="table table-bordered PageList">
+                <tr>
+                    <th> Name</th>
+                    <td><input type="text" ng-model="PlayerName" class="form-control" /></td>
+                    <th> Father Name</th>
+                    <td><input type="text" ng-model="FatherName" class="form-control" /></td>
+                </tr>
+                <!--<tr>
+                    
+                </tr>-->
+                <tr>
+                    <th> Mother Name</th>
+                    <td><input type="text" ng-model="MotherName" class="form-control" /></td>
+                    <th> Date Of Birth</th>
+                    <td><input type="text" ng-model="DateOfBirth" class="form-control" placeholder="dd/mm/yyyy" /></td>
+                </tr>
+                <!--<tr>
+                   
+                </tr>-->
+                <tr>
+                    <th> Birth Certificate Number</th>
+                    <td><input type="text" ng-model="BirthCertificateNumber" class="form-control" /></td>
+                    <th> Age</th>
+                    <td><input type="text" ng-model="Age" class="form-control" /></td>
+                </tr>
+                <!--<tr>
+                    
+                </tr>-->
+                <tr>
+                    <th> Educational Qualification</th>
+                    <td><input type="text" ng-model="EducationalQualification" class="form-control" /></td>
+                    <th> PlayerType</th>
+                    <td>
+                        <select ng-model="PlayerType" class="form-control">
+                            <option value="" selected>Select</option>
+                            <option value="Bowler">Bowler</option>
+                            <option value="Batsman">Batsman</option>
+                            <option value="All Rounder">All Rounder</option>
+                        </select>
+
+                    </td>
+                </tr>
+                <!--<tr>
+                   
+                </tr>-->
+                <tr>
+                    <th> Height</th>
+                    <td><input type="text" ng-model="Height" class="form-control" /></td>
+                    <th> Weight</th>
+                    <td><input type="text" ng-model="Weight" class="form-control" /></td>
+                </tr>
+                <!--<tr>
+                   
+                </tr>-->
+                <tr>
+                    <th> Religion</th>
+                    <td>
+                        <select ng-model="Religion" class="form-control">
+                            <option value="" selected>Select</option>
+                            <option value="Islam">Islam</option>
+                            <option value="Hindu">Hindu</option>
+                            <option value="Christian">Christian</option>
+                            <option value="Others">Others</option>
+                        </select>
+                    </td>
+                    <th> Phone</th>
+                    <td><input type="text" ng-model="Phone" class="form-control" /></td>
+                </tr>
+                <!--<tr>
+                    
+                </tr>-->
+                <tr>
+                    <th> Home Phone</th>
+                    <td><input type="text" ng-model="HomePhone" class="form-control" /></td>
+                    <th> Present Address</th>
+                    <td><textarea ng-model="PresentAddress" class="form-control"></textarea></td>
+                </tr>
+                <!--<tr>
+                    
+                </tr>-->
+                <tr>
+                    <th> Permanent Address</th>
+                    <td><textarea ng-model="PermanentAddress" class="form-control" ></textarea></td>
+                    <th> Campaign Venue</th>
+                    <td>
+                        <select ng-model="CampaignId" class="form-control">
+                            <option value="" selected>Select</option>
+                            <option ng-repeat="c in AllCampaigns" value="{{c.CampaignId}}">{{c.CampaignName}}</option>
+                        </select>
+
+                    </td>
+                </tr>
+                <!--<tr>
+                   
+                </tr>-->
+                <tr>
+                    
+                    <td colspan="4" class="text-right">
+                        <input type="button" class="btn btn-primary" ng-click="insertData()" value="Insert" />
+                        <!--<input type="button" class="btn btn-primary" ng-click="Cancel()" value="Cancel" />-->
+                    </td>
+                </tr>
+            </table>
+        </form>
+    </div>
+    <script src="../Scripts/angular.js"></script>
+    <script src="../Scripts/Module/Module.js"></script>
+    <script src="../Scripts/Player/PlayerService.js"></script>
+    <script src="../Scripts/Campaign/CampaignService.js"></script>
+    <script src="../Scripts/Player/PlayerController.js"></script>
+
+</body>
+</html>

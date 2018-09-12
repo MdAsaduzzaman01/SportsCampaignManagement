@@ -1,0 +1,267 @@
+﻿<!DOCTYPE html>
+<html ng-app="myModule">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="../Content/bootstrap.css" rel="stylesheet" />
+    <link href="../css/Custom.css" rel="stylesheet" />
+</head>
+<body class="container">
+    <div class="Header">
+        <h1 class="text-center" style="color:#12843E;">Sports Campaign Management</h1>
+        <h4 class="text-danger text-center" style="color:#12843E;">We don't build hope we build futures</h4>
+    </div>
+    <div class="Menu">
+        <a href="#" class="ancor">Home</a>
+        <a href="#" class="ancor">About</a>
+        <a href="#" class="ancor">Contact Us</a>
+        <a href="#" class="ancor">Registration</a>
+        <a href="#" class="ancor">Sign In</a>
+    </div>
+    <div id="carousel" style="height:400px" class="carousel">
+        <h3> This div is for Sildeshow</h3>
+    </div>
+    <div>
+        <div class="col-md-9">
+            <div class="col-md-4">
+                <h3 class="NEW">Recent News</h3>
+                <p>
+                    <ul>
+                        <li>
+                            Trump tweets he'd 'shut down' government if Democrats don't fund US-Mexico wall
+
+                        </li>
+                        Fox News
+                        3 hours ago
+                        Trump threatens shutdown over wall, immigration
+                        Washington
+                        <li>
+                            CNN
+                            2 hours ago
+                            President Trump again threatens to 'shut down' government if Democrats don't agree to funds for border wall -
+
+                        </li>
+                        New York Daily News
+                        2 hours ago
+                        Trump threatens government shutdown if Democrats don't back immigration reform
+
+                        <li>
+                            CNBC
+                            3 hours ago
+
+                        </li>
+                    </ul>
+                </p>
+            </div>
+            <div class="col-md-8">
+                <h3 class="NEW">Winner List</h3>
+                <div ng-controller="PFBACtrl">
+                    <div ng-show="divBatsmanList">
+                        <h1>Batsman List</h1>
+                        <table class="table table-bordered">
+                            <tr>
+                                <th>Player Id</th>
+                                <th>Name</th>
+                                <th>Final Score</th>
+                                <th></th>
+                            <tr ng-repeat="p in Players">
+                                <td>{{p.PlayerId}}</td>
+                                <td>{{p.PlayerName}}</td>
+                                <td>{{p.FinalScore}}</td>
+                                <td>
+                                    <input type="button" ng-click="getBatsmanDetails(p)" class="btn btn-primary" value="Details" />
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                    <div ng-show="divBatsmanDetails">
+                        <table class="table table-bordered">
+                            <tr>
+                                <th>player Id</th>
+                                <td ng-bind="PlayerId" class="form-control"></td>
+                            </tr>
+                            <tr>
+                                <th>Player Name</th>
+                                <td ng-bind="PlayerName" class="form-control"></td>
+                            </tr>
+                            <tr>
+                                <th>Father Name</th>
+                                <td ng-bind="FatherName" class="form-control"></td>
+                            </tr>
+                            <tr>
+                                <th>MotherName</th>
+                                <td ng-bind="MotherName" class="form-control"></td>
+                            </tr>
+                            <tr>
+                                <th>PlayerType</th>
+                                <td ng-bind="PlayerType" class="form-control"></td>
+                            </tr>
+                            <tr>
+                                <th>CampaignVenue</th>
+                                <td ng-bind="CampaignVenue" class="form-control"></td>
+                            </tr>
+                            <tr>
+                                <th>CampaignDate</th>
+                                <td ng-bind="CampaignDate" class="form-control"></td>
+                            </tr>
+                            <tr>
+                                <th>CampaignLevel</th>
+                                <td ng-bind="CampaignLevel" class="form-control"></td>
+                            </tr>
+                            <tr>
+                                <th>Ball1Total</th>
+                                <td ng-bind="Ball1Total" class="form-control"></td>
+                            </tr>
+                            <tr>
+                                <th>Ball2 Total</th>
+                                <td ng-bind="Ball2Total" class="form-control"></td>
+                            </tr>
+                            <tr>
+                                <th>Ball3 Total</th>
+                                <td ng-bind="Ball3Total" class="form-control"></td>
+                            </tr>
+                            <tr>
+                                <th>Ball4 Total</th>
+                                <td ng-bind="Ball4Total" class="form-control"></td>
+                            </tr>
+                            <tr>
+                                <th>Ball5 Total</th>
+                                <td ng-bind="Ball5Total" class="form-control"></td>
+                            </tr>
+                            <tr>
+                                <th>Ball6 Total</th>
+                                <td ng-bind="Ball6Total" class="form-control"></td>
+                            </tr>
+                            <tr>
+                                <th>Final Score</th>
+                                <td ng-bind="FinalScore"></td>
+                            </tr>
+                            <tr>
+                                <td colspan="2" class="text-right">
+                                    <input type="button" value="Close" ng-click="Close()" class="btn btn-info" />
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+                <div ng-controller="PFBWCtrl">
+                    <div ng-show="divBowlerList">
+                        <h1>Bowler List</h1>
+                        <table class="table table-bordered">
+                            <tr>
+                                <th>Player Id</th>
+                                <th>Name</th>
+                                <th>Final Score</th>
+                                <th></th>
+                            <tr ng-repeat="p in BWPlayers">
+                                <td>{{p.PlayerId}}</td>
+                                <td>{{p.PlayerName}}</td>
+                                <td>{{p.FinalScore}}</td>
+                                <td>
+                                    <input type="button" ng-click="getBowlerDetails(p)" class="btn btn-primary" value="Details" />
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+
+                    <div ng-show="divBowlerDetails">
+                        <table class="table table-bordered">
+                            <tr>
+                                <th>player Id</th>
+                                <td ng-bind="PlayerId" class="form-control"></td>
+                            </tr>
+                            <tr>
+                                <th>Player Name</th>
+                                <td ng-bind="PlayerName" class="form-control"></td>
+                            </tr>
+                            <tr>
+                                <th>Father Name</th>
+                                <td ng-bind="FatherName" class="form-control"></td>
+                            </tr>
+                            <tr>
+                                <th>MotherName</th>
+                                <td ng-bind="MotherName" class="form-control"></td>
+                            </tr>
+                            <tr>
+                                <th>PlayerType</th>
+                                <td ng-bind="PlayerType" class="form-control"></td>
+                            </tr>
+                            <tr>
+                                <th>CampaignVenue</th>
+                                <td ng-bind="CampaignVenue" class="form-control"></td>
+                            </tr>
+                            <tr>
+                                <th>CampaignDate</th>
+                                <td ng-bind="CampaignDate" class="form-control"></td>
+                            </tr>
+                            <tr>
+                                <th>CampaignLevel</th>
+                                <td ng-bind="CampaignLevel" class="form-control"></td>
+                            </tr>
+                            <tr>
+                                <th>Ball1Total</th>
+                                <td ng-bind="Ball1Total" class="form-control"></td>
+                            </tr>
+                            <tr>
+                                <th>Ball2 Total</th>
+                                <td ng-bind="Ball2Total" class="form-control"></td>
+                            </tr>
+                            <tr>
+                                <th>Ball3 Total</th>
+                                <td ng-bind="Ball3Total" class="form-control"></td>
+                            </tr>
+                            <tr>
+                                <th>Ball4 Total</th>
+                                <td ng-bind="Ball4Total" class="form-control"></td>
+                            </tr>
+                            <tr>
+                                <th>Ball5 Total</th>
+                                <td ng-bind="Ball5Total" class="form-control"></td>
+                            </tr>
+                            <tr>
+                                <th>Ball6 Total</th>
+                                <td ng-bind="Ball6Total" class="form-control"></td>
+                            </tr>
+                            <tr>
+                                <th>Final Score</th>
+                                <td ng-bind="FinalScore"></td>
+                            </tr>
+                            <tr>
+                                <td colspan="2" class="text-right">
+                                    <input type="button" value="Close" ng-click="Close()" class="btn btn-info" />
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 ">
+            <h3 class="NEW">Events</h3>
+            <p>
+                <ul>
+                    <li>Dhaka</li>
+                    <li>Gazipur</li>
+                    <li>Nilphamari</li>
+                </ul>
+            </p>
+        </div>
+        <div>
+            <div class="col-md-9">
+                <h1 class="NEW">Official Partner</h1>
+                <a href="#">EBook</a>
+            </div>
+            <div class="col-md-3">
+                <h1 class="NEW">Media Partner</h1>
+                <h2><a href="http://www.dhakasuntimes.com">DhakaSunTimes.com</a> </h2>
+            </div>
+        </div>
+        </div>
+    <script src="../Scripts/angular.js"></script>
+    <script src="../Scripts/Module/Module.js"></script>
+    <script src="../Scripts/ViewModels/PlayerFinalBatting/PFBAService.js"></script>
+    <script src="../Scripts/ViewModels/PlayerFinalBowling/PFBWService.js"></script>
+    <script src="../Scripts/ViewModels/PlayerFinalBatting/PFBController.js"></script>
+    <script src="../Scripts/ViewModels/PlayerFinalBowling/PFBWController.js"></script>
+</body>
+</html>

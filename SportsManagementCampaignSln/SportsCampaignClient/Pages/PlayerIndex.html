@@ -1,0 +1,237 @@
+﻿<!DOCTYPE html>
+<html ng-app="myModule">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="../Content/bootstrap.css" rel="stylesheet" />
+    <link href="../CSS/Custom.css" rel="stylesheet" />
+</head>
+<body ng-controller="PlayerCtrl" class="Pagebody">
+    <div class="container">
+        <div ng-show="divPlayerList">
+            <table class="table table-bordered PageList">
+                <tr>
+                    <th>Player Id</th>
+                    <th>Player Name</th>
+                    <th>Father Name</th>
+                    <th>Mother Name</th>
+                    <th>Date of Birth</th>
+                    <th>Birth Certificate Number</th>
+                    <th>Age</th>
+                    <th>Educational Qualification</th>
+                    <th>Player type</th>
+                    <th>Height</th>
+                    <th>Weight</th>
+                    <th>Religion</th>
+                    <th>Phone</th>
+                    <th>Home Phone</th>
+                    <th>Present Address</th>
+                    <th>Permanent Address</th>
+                    <th>Campaign</th>
+                    <th>Actions</th>
+                </tr>
+                <tr ng-repeat="p in AllPlayers">
+                    <td>{{p.PlayerId}}</td>
+                    <td>{{p.PlayerName}}</td>
+                    <td>{{p.FatherName}}</td>
+                    <td>{{p.MotherName}}</td>
+                    <td>{{p.DateOfBirth}}</td>
+                    <td>{{p.BirthCertificateNumber}}</td>
+                    <td>{{p.Age}}</td>
+                    <td>{{p.EducationalQualification}}</td>
+                    <td>{{p.PlayerType}}</td>
+                    <td>{{p.Height}}</td>
+                    <td>{{p.Weight}}</td>
+                    <td>{{p.Religion}}</td>
+                    <td>{{p.Phone}}</td>
+                    <td>{{p.HomePhone}}</td>
+                    <td>{{p.PresentAddress}}</td>
+                    <td>{{p.PermanentAddress}}</td>
+                    <td>{{p.CampaignId}}</td>
+                    <td>
+                        <input type="button" ng-click="updatePlayer(p)" value="Update" class="btn btn-primary" />
+                        <input type="button" ng-click="deletePlayer(p)" value="Delete" class="btn btn-primary" />
+                    </td>
+
+                </tr>
+            </table>
+        </div>
+        <div ng-show="divUpdatePlayer" class="PageList">
+            <form class="col-md-8 col-md-offset-2">
+                <table class="table table-bordered PageList">
+                    <tr>
+                        <th>Player Id</th>
+                        <td>
+                           <input type="text"  ng-model="PlayerId" class="form-control disabled"/>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Player Name</th>
+                        <td >
+                           <input type="text" ng-model="PlayerName" class="form-control"/>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Father Name</th>
+                        <td>
+                        <input type="text" ng-model="FatherName" class="form-control"/>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Mother Name</th>
+                        <td><input type="text" ng-model="MotherName" class="form-control"/></td>
+                    </tr>
+                    <tr>
+                        <th>Date Of Birth</th>
+                        <td> <input type="text" ng-model="DateOfBirth" class="form-control"/></td>
+                    </tr>
+                    <tr>
+                        <th>Birth Certificate Number</th>
+                        <td> <input type="text" ng-model="BirthCertificateNumber" class="form-control"/></td>
+                    </tr>
+                    <tr>
+                        <th>Age</th>
+                        <td> <input type="text" ng-model="Age" class="form-control"/></td>
+                    </tr>
+                    <tr>
+                        <th>Educational Qualification</th>
+                        <td> <input type="text" ng-model="EducationalQualification" class="form-control"/></td>
+                    </tr>
+                    <tr>
+                        <th>PlayerType</th>
+                        <td> <input type="text" ng-model="PlayerType" class="form-control"/></td>
+                    </tr>
+                    <tr>
+                        <th>Height</th>
+                        <td>
+                       <input type="text" ng-model="Height" class="form-control"/></td>
+                    </tr>
+                    <tr>
+                        <th>Weight</th>
+                        <td> <input type="text" ng-model="Weight" class="form-control"/></td>
+                    </tr>
+                    <tr>
+                        <th>Religion</th>
+                        <td> <input type="text" ng-model="Religion" class="form-control"/></td>
+                    </tr>
+                    <tr>
+                        <th>Phone</th>
+                        <td> <input type="text" ng-model="Phone" class="form-control"/></td>
+                    </tr>
+                    <tr>
+                        <th>HomePhone</th>
+                        <td > <input type="text" ng-model="HomePhone" class="form-control"/></td>
+                    </tr>
+                    <tr>
+                        <th>Present Address</th>
+                        <td> <input type="text"  ng-model="PresentAddress" class="form-control"/></td>
+                    </tr>
+                    <tr>
+                        <th>Permanent Address</th>
+                        <td > <input type="text" ng-model="PermanentAddress" class="form-control"/></td>
+                    </tr>
+                    <tr>
+                        <th>CampaignId</th>
+                        <td><input type="text" ng-model="CampaignId" class="form-control"/></td>
+                    </tr>
+                    <tr>
+                        <th></th>
+                        <td>
+                            <input type="button" class="btn btn-primary" ng-click="updateData()" value="Update" />
+                            <input type="button" class="btn btn-primary" ng-click="Cancel()" value="Cancel" />
+                        </td>
+                    </tr>
+                </table>
+            </form>
+        </div>
+        <div ng-show="divDeletePlayer" class="PageList">
+            <form class="col-md-8 col-md-offset-2">
+                <table class="table table-bordered PageList">
+                    <tr>
+                        <th>Player Id</th>
+                        <td ng-bind="PlayerId" class="form-control"></td>
+                    </tr>
+                    <tr>
+                        <th>Player Name</th>
+                        <td ng-bind="PlayerName" class="form-control"></td>
+                    </tr>
+                    <tr>
+                        <th>Father Name</th>
+                        <td ng-bind="FatherName" class="form-control"></td>
+                    </tr>
+                    <tr>
+                        <th>Mother Name</th>
+                        <td ng-bind="MotherName" class="form-control"></td>
+                    </tr>
+                    <tr>
+                        <th>Date Of Birth</th>
+                        <td ng-bind="DateOfBirth" class="form-control"></td>
+                    </tr>
+                    <tr>
+                        <th>Birth Certificate Number</th>
+                        <td ng-bind="BirthCertificateNumber" class="form-control"></td>
+                    </tr>
+                    <tr>
+                        <th>Age</th>
+                        <td ng-bind="Age" class="form-control"></td>
+                    </tr>
+                    <tr>
+                        <th>Educational Qualification</th>
+                        <td ng-bind="EducationalQualification" class="form-control"></td>
+                    </tr>
+                    <tr>
+                        <th>PlayerType</th>
+                        <td ng-bind="PlayerType" class="form-control"></td>
+                    </tr>
+                    <tr>
+                        <th>Height</th>
+                        <td ng-bind="Height" class="form-control"></td>
+                    </tr>
+                    <tr>
+                        <th>Weight</th>
+                        <td ng-bind="Weight" class="form-control"></td>
+                    </tr>
+                    <tr>
+                        <th>Religion</th>
+                        <td ng-bind="Religion" class="form-control"></td>
+                    </tr>
+                    <tr>
+                        <th>Phone</th>
+                        <td ng-bind="Phone" class="form-control"></td>
+                    </tr>
+                    <tr>
+                        <th>HomePhone</th>
+                        <td ng-bind="HomePhone" class="form-control"></td>
+                    </tr>
+                    <tr>
+                        <th>Present Address</th>
+                        <td ng-bind="PresentAddress" class="form-control"></td>
+                    </tr>
+                    <tr>
+                        <th>Permanent Address</th>
+                        <td ng-bind="PermanentAddress" class="form-control"></td>
+                    </tr>
+                    <tr>
+                        <th>CampaignId</th>
+                        <td ng-bind="CampaignId" class="form-control"></td>
+                    </tr>
+                    <tr>
+                        <th></th>
+                        <td>
+                            <input type="button" class="btn btn-primary" ng-click="deleteData()" value="Delete"/>
+                            <input type="button" class="btn btn-primary" ng-click="Cancel()" value="Cancel" />
+                        </td>
+                    </tr>
+                </table>
+            </form>
+        </div>
+
+    </div>
+    <script src="../Scripts/angular.js"></script>
+    <script src="../Scripts/Module/Module.js"></script>
+    <script src="../Scripts/Player/PlayerService.js"></script>
+    <script src="../Scripts/Campaign/CampaignService.js"></script>
+    <script src="../Scripts/Player/PlayerController.js"></script>
+
+</body>
+</html>

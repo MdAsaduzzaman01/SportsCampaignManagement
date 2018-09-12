@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<html ng-app="SpCam">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="../../../Content/bootstrap.css" rel="stylesheet" />
+</head>
+<body ng-controller="accCtrl">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 col-md-offset-4">
+                <div class="message warning">
+                    <div class="contact-form">
+                        <div class="logo">
+                            <h1>Login Here</h1>
+                        </div>
+                         <form name="form1" novalidate>
+                            <div class="form">
+                                <ul>
+                                    <li ng-class="{'has-error':form1.Email.$invalid &&
+                                  form2.Email.$dirty}">
+                                        <label>Email</label>
+                                        <input type="email" class="email" name="Email" placeholder="info@sportscampaign.com" required="" ng-model="logn.Email">
+                                        <span class="help-block has-error">
+                                         <span ng-show="form1.Email.$error.email">Invalid email Address</span>
+                                        </span>
+                                    </li>
+                                    <li>
+                                        <label>Password</label>
+                                        <input type="Password" name="Password" placeholder="password" required="" ng-model="logn.UserPassword">
+                                    </li>
+                                    <p><a href="#">Forgot Password?</a></p>
+                                    <li class="style text-center">
+                                        <input type="button" value="Login" ng-click="login()">
+                                    </li>
+                                </ul>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+         
+        </div>
+    </div>
+
+    <script src="../../../Scripts/angular.js"></script>
+    <script src="../../../Scripts/angular-cookies.js"></script>
+    <script src="../../Module/SportsModule.js"></script>
+    <script src="../adminService/accService.js"></script>
+    <script src="../adminController/accCtrl.js"></script>
+</body>
+</html>

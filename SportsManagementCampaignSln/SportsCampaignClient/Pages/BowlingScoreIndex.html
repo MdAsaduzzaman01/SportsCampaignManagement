@@ -1,0 +1,314 @@
+﻿<!DOCTYPE html>
+<html ng-app="myModule">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="../Content/bootstrap.css" rel="stylesheet" />
+    <link href="../CSS/Custom.css" rel="stylesheet" />
+</head>
+<body ng-controller="BowlingScoreCtrl" class="Pagebody">
+    <div class="container">
+        <input type="button" class="btn btn-info" value="Create New Bowling Score" ng-click="CreateNewBowlingScore()" />
+        <div ng-show="BWScoreList" class="PageList">
+            <table class="table table-bordered PageList">
+                <tr>
+                    <th>Bowling Score Card Id</th>
+                    <th>Player Id</th>
+                    <th>Level</th>
+                    <th>Ball Number</th>
+                    <th>Length</th>
+                    <th>Line</th>
+                    <th>Speed</th>
+                    <th>Runs</th>
+                    <th>Wicket</th>
+                    <th>Total</th>
+                    <th>Actions</th>
+                </tr>
+                <tr ng-repeat="bw in AllBowlingScore">
+                    <td>{{bw.BowlingScoreCardId}}</td>
+                    <td>{{bw.PlayerId}}</td>
+                    <td>{{bw.Level}}</td>
+                    <td>{{bw.BallNumber}}</td>
+                    <td>{{bw.Length}}</td>
+                    <td>{{bw.Line}}</td>
+                    <td>{{bw.Speed}}</td>
+                    <td>{{bw.Runs}}</td>
+                    <td>{{bw.Wicket}}</td>
+                    <td>{{bw.Total}}</td>
+                    <td>
+                        <input type="button" class="btn btn-primary" value="Update" ng-click="updateBWScore(bw)" />
+                        <input type="button" class="btn btn-primary" value="Delete" ng-click="deleteBWScore(bw)" />
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div ng-show="InsertBWScore" class="PageList">
+            <form class="col-md-8 col-md-offset-2">
+                <table class="table table-bordered PageList">
+                    <tr>
+                        <th>Player Id</th>
+                        <td>
+                            <select ng-model="PlayerId" class="form-control">
+                                <option value="" selected>Select</option>
+                                <option ng-repeat="p in AllPlayers" value="{{p.PlayerId}}">{{p.PlayerId}}</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Level</th>
+                        <td>
+                            <select class="form-control" ng-model="Level">
+                                <option value="" selected>Select</option>
+                                <option value="District">District</option>
+                                <option value="Division">Division</option>
+                                <option value="Country">Country</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Ball Number</th>
+                        <td>
+                            <select ng-model="BallNumber" class="form-control">
+                                <option value="" selected>Select</option>
+                                <option value="1">Ball 1</option>
+                                <option value="2">Ball 2 </option>
+                                <option value="3">Ball 3</option>
+                                <option value="4">Ball 4</option>
+                                <option value="5">Ball 5</option>
+                                <option value="6">Ball 6</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Length</th>
+                        <td>
+                            <select ng-model="Length" class="form-control">
+                                <option value="" selected>Select</option>
+                                <option value="5">Good</option>
+                                <option value="2">Short </option>
+                                <option value="5">Yorker</option>
+                                <option value="4">Bounch</option>
+                                <option value="1">Full</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Line</th>
+                        <td>
+                            <select ng-model="Line" class="form-control">
+                                <option value="" selected>Select</option>
+                                <option value="5">Right</option>
+                                <option value="-2">Wide </option>
+                                <option value="-2">No</option>
+                                <option value="3">Outside Off</option>
+                                <option value="3">Outside Leg</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Speed</th>
+                        <td>
+                            <select ng-model="Speed" class="form-control">
+                                <option value="" selected>Select</option>
+                                <option value="5">Fast</option>
+                                <option value="4">Fast-medium </option>
+                                <option value="4">Medium-fast</option>
+                                <option value="3">Medium</option>
+                                <option value="3">Slower</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Runs</th>
+                        <td>
+                            <input type="text" ng-model="Runs" class="form-control" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>Wicket</th>
+                        <td>
+                            <select ng-model="Wicket" class="form-control">
+                                <option value="" selected>Select</option>
+                                <option value="5">No</option>
+                                <option value="-3">Yes</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th></th>
+                        <td>
+                        <input type="button" ng-click="insertData()" value="Insert" class="btn btn-primary" />
+                            <input type="button" ng-click="Cancel()" value="Cancel" class="btn btn-primary" />
+                        </td>
+                    </tr>
+                </table>
+            </form>
+        </div>     
+        <div ng-show="divBWScoreupdate" class="PageList">
+                <form class="col-md-8 col-md-offset-2">
+                    <table class="table table-bordered PageList ">
+                        <tr>
+                            <th>Bowling Score Card Id</th>
+                            <td><input type="text" ng-model="BowlingScoreCardIds"  disabled/></td>
+                        </tr>
+                        <tr>
+                            <th>Player Id</th>
+                            <td>
+                                <select ng-model="PlayerIds" class="form-control">
+                                    <option value="" selected>Select</option>
+                                    <option ng-repeat="p in AllPlayers" value="{{p.PlayerId}}">{{p.PlayerId}}</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th>Level</th>
+                            <td>
+                                <select class="form-control" ng-model="Level">
+                                    <option value="" selected>Select</option>
+                                    <option value="District">District</option>
+                                    <option value="Division">Division</option>
+                                    <option value="Country">Country</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th>Ball Number</th>
+                            <td>
+                                <select ng-model="BallNumbers" class="form-control">
+                                    <option value="" selected>Select</option>
+                                    <option value="1">Ball 1</option>
+                                    <option value="2">Ball 2 </option>
+                                    <option value="3">Ball 3</option>
+                                    <option value="4">Ball 4</option>
+                                    <option value="5">Ball 5</option>
+                                    <option value="6">Ball 6</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th>Length</th>
+                            <td>
+                                <select ng-model="Lengths" class="form-control">
+                                    <option value="" selected>Select</option>
+                                    <option value="5">Good</option>
+                                    <option value="2">Short </option>
+                                    <option value="5">Yorker</option>
+                                    <option value="4">Bounch</option>
+                                    <option value="1">Full</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th>Line</th>
+                            <td>
+                                <select ng-model="Lines" class="form-control">
+                                    <option value="" selected>Select</option>
+                                    <option value="5">Right</option>
+                                    <option value="-2">Wide </option>
+                                    <option value="-2">No</option>
+                                    <option value="3">Outside Off</option>
+                                    <option value="3">Outside Leg</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th>Speed</th>
+                            <td>
+                                <select ng-model="Speeds" class="form-control">
+                                    <option value="" selected>Select</option>
+                                    <option value="5">Fast</option>
+                                    <option value="4">Fast-medium </option>
+                                    <option value="4">Medium-fast</option>
+                                    <option value="3">Medium</option>
+                                    <option value="3">Slower</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th>Runs</th>
+                            <td>
+                                <input type="text" ng-model="Run" class="form-control" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <th>Wicket</th>
+                            <td>
+                                <select ng-model="Wickets" class="form-control">
+                                    <option value="" selected>Select</option>
+                                    <option value="5">No</option>
+                                    <option value="-3">Yes</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th></th>
+                            <td>
+                                <input type="button" ng-click="updateData()" value="Update" class="btn btn-primary" />
+                                <input type="button" ng-click="Cancel()" value="Cancel" class="btn btn-primary" />
+                            </td>
+                        </tr>
+                    </table>
+                </form>
+            </div>
+        <div ng-show="divBWScoreDelete" class="PageList">
+            <form class="col-md-8 col-md-offset-2">
+                <table class="table table-bordered PageList ">
+                    <tr>
+                        <th>Bowling Score Id</th>
+                        <td ng-bind="BowlingScoreCardId" class="form-control"></td>
+                    </tr>
+                    <tr>
+                        <th>Player Id</th>
+                        <td ng-bind="PlayerId" class="form-control"></td>
+                    </tr>
+                    <tr>
+                        <th>Level</th>
+                        <td class="form-control" ng-bind="Level"></td>
+                    </tr>
+                    <tr>
+                        <th>Ball Number</th>
+                        <td ng-bind="BallNumber" class="form-control"></td>
+                    </tr>
+                    <tr>
+                        <th>Length</th>
+                        <td ng-bind="Length" class="form-control"></td>
+                    </tr>
+                    <tr>
+                        <th>Line</th>
+                        <td  ng-bind="Line" class="form-control"></td>
+                    </tr>
+                    <tr>
+                        <th>Speed</th>
+                        <td ng-bind="Speed" class="form-control"></td>
+                    </tr>
+                    <tr>
+                        <th>Runs</th>
+                        <td ng-bind="Runs" class="form-control"></td>
+                    </tr>
+                    <tr>
+                        <th>Wicket</th>
+                        <td ng-bind="Wicket" class="form-control"></td>
+                    </tr>
+                    <tr>
+                        <th>Total</th>
+                        <td ng-bind="Total" class="form-control"></td>
+                    </tr>
+                    <tr>
+                        <th></th>
+                        <td>
+                            <input type="button" ng-click="deleteData()" value="Delete" class="btn btn-danger" />
+                            <input type="button" ng-click="Cancel()" value="Cancel" class="btn btn-primary" />
+                        </td>
+                    </tr>
+                </table>
+            </form>
+        </div>
+       
+        </div>
+    <script src="../Scripts/angular.js"></script>
+    <script src="../Scripts/Module/Module.js"></script>
+    <script src="../Scripts/BowlingScoreCard/BowlingScoreService.js"></script>
+    <script src="../Scripts/Player/PlayerService.js"></script>
+    <script src="../Scripts/BowlingScoreCard/BowlingScoreController.js"></script>
+</body>
+</html>
